@@ -18,6 +18,6 @@ ipshared
  *.vsix
 
  .Xil/*
- part2_proj/*
- hardware/part2_proj
+ fifo_buffer/*
+ fifo_buffer
 
