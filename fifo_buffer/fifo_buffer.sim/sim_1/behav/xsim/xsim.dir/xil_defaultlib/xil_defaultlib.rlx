@@ -1,0 +1,9 @@
+0.7
+2020.2
+Aug  5 2022
+22:59:05
+/home/Vedi/Desktop/TEST-ece524Lab2-part5/fifo_buffer/fifo_buffer/fifo_buffer.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,uvm,,,,,,
+/home/Vedi/Desktop/TEST-ece524Lab2-part5/sim/fifo_tb.vhd,1663709820,vhdl,,,,fifo_tb,,,,,,,,
+/home/Vedi/Desktop/TEST-ece524Lab2-part5/src/fifo.vhd,1663698958,vhdl,,,,fifo,,,,,,,,
+/home/Vedi/Desktop/TEST-ece524Lab2-part5/src/fifo_ctrl.vhd,1663697461,vhdl,/home/Vedi/Desktop/TEST-ece524Lab2-part5/src/fifo.vhd,,,fifo_ctrl,,,,,,,,
+/home/Vedi/Desktop/TEST-ece524Lab2-part5/src/reg_file.sv,1663708173,systemVerilog,/home/Vedi/Desktop/TEST-ece524Lab2-part5/src/fifo.vhd,,,reg_file,,uvm,,,,,,
